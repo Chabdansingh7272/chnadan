@@ -1,2 +1,2 @@
-# chnadan
+# Chandan
 Student
